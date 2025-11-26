@@ -14,5 +14,14 @@ With all the data analyis we provide to the decision owner a comprehesive visual
 
 
 Language: Python
+
+
+
 Libraries: Pandas, Matplotlib 
+
+
+
 Notebook: Google colab
+
+
+
