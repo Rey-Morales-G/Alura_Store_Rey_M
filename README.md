@@ -1,6 +1,6 @@
 This is the first challege from Alura Latam ONE G9 
 
-The aim is to use pandas in Python to decide which store needs to be divested to invest in a new venture
+The aim is to decide which store needs to be divested to invest in a new venture
 
 To be able to provide all the data needed for the decision the following has been executed:
 
@@ -11,3 +11,8 @@ To be able to provide all the data needed for the decision the following has bee
 
 
 With all the data analyis we provide to the decision owner a comprehesive visual summary and a recommendation. 
+
+
+Language: Python
+Libraries: Pandas, Matplotlib 
+Notebook: Google colab
